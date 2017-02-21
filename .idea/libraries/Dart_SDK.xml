@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://$USER_HOME$/flutter/bin/cache/dart-sdk/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$USER_HOME$/flutter/bin/cache/dart-sdk/lib/_blink" />
+      <root url="file://$USER_HOME$/flutter/bin/cache/dart-sdk/lib/_chrome" />
+      <root url="file://$USER_HOME$/flutter/bin/cache/dart-sdk/lib/_internal" />
+      <root url="file://$USER_HOME$/flutter/bin/cache/dart-sdk/lib/dev_compiler" />
+    </excluded>
+  </library>
+</component>
